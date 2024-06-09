@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software Developer from Vancouver, BC 🇨🇦</h3>
 
-#About me
+# About me
 - 🔭 I’m currently working on ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) and ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -26,8 +26,8 @@ Other
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Magic1vy)](https://git.io/streak-stats)
 
-#Contacts
-My ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) - linkedin.com/in/valeriia-code[https://www.linkedin.com/in/valeriia-code/]
+# Contacts
+My ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[https://www.linkedin.com/in/valeriia-code/]
 
 
 
