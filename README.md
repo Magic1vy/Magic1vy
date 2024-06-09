@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm <a href="https://valeriia-code.com/" target="_blank">Valeriia</a> 
+<h1 align="center">Hi there, I'm <a href="https://valeriia-code.com/" target="_blank">𝚅𝚊𝚕𝚎𝚛𝚒𝚒𝚊</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software Developer from Vancouver, BC 🇨🇦</h3>
 <!--
