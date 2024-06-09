@@ -28,6 +28,9 @@
 # GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Magic1vy)](https://git.io/streak-stats)
 
+# GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Magic1vy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 # Contacts
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriia-code/)
 
