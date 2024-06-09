@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software Developer from Vancouver, BC 🇨🇦</h3>
 
-# About me
+
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning TypeScript and React Native
 
