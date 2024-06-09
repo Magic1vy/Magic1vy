@@ -2,12 +2,13 @@
 <h1>Hi there, I'm <a href="https://valeriia-code.com/" target="_blank">𝚅𝚊𝚕𝚎𝚛𝚒𝚒𝚊</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-### Software Developer from Vancouver, BC 🇨🇦
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning TypeScript and React Native
-- 💬 I speak English, Russian, Ukrainian and JavaScript.
-- ⚡ Fun fact: My work focuses not only on functional applications; I'm also adept in user experience.
-- ❤️‍🔥 Check out my portfolio: [https://valeriia-code.com/]
+### 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝚅𝚊𝚗𝚌𝚘𝚞𝚟𝚎𝚛, 𝙱𝙲 🇨🇦
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚁𝚎𝚊𝚌𝚝
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝 𝚊𝚗𝚍 𝚁𝚎𝚊𝚌𝚝 𝙽𝚊𝚝𝚒𝚟𝚎
+- 💬 𝙸 𝚜𝚙𝚎𝚊𝚔 𝙴𝚗𝚐𝚕𝚒𝚜𝚑, 𝚁𝚞𝚜𝚜𝚒𝚊𝚗, 𝚄𝚔𝚛𝚊𝚒𝚗𝚒𝚊𝚗 𝚊𝚗𝚍 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝.
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝙼𝚢 𝚠𝚘𝚛𝚔 𝚏𝚘𝚌𝚞𝚜𝚎𝚜 𝚗𝚘𝚝 𝚘𝚗𝚕𝚢 𝚘𝚗 𝚏𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜; 𝙸'𝚖 𝚊𝚕𝚜𝚘 𝚊𝚍𝚎𝚙𝚝 𝚒𝚗 𝚞𝚜𝚎𝚛 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎.
+- ❤️‍🔥 𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘: [𝚑𝚝𝚝𝚙𝚜://𝚟𝚊𝚕𝚎𝚛𝚒𝚒𝚊-𝚌𝚘𝚍𝚎.𝚌𝚘𝚖/]
+
 
 # Skills and Experience:
 ### Front-End Development
