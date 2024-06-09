@@ -5,6 +5,7 @@
 ### Software Developer from Vancouver, BC 🇨🇦
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning TypeScript and React Native
+- 💬 I speak English, Russian, Ukrainian and JavaScript.
 - ⚡ Fun fact: My work focised not only for function applications, I'm also adept User Experians
 - ❤️‍🔥 Check out my portfolio: [https://valeriia-code.com/]
 
