@@ -26,11 +26,13 @@
 ### Other
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)   
 
-# GitHub Streak
+<!-- # GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Magic1vy)](https://git.io/streak-stats)
 
 # GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Magic1vy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+![Magic1vy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Magic1vy&show_icons=true&theme=radical)
 
 # Contacts
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriia-code/)
