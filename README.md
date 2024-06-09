@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝 and 𝚁𝚎𝚊𝚌𝚝 𝙽𝚊𝚝𝚒𝚟𝚎
 - 💬 I speak English, Russian, Ukrainian and JavaScript.
 - ⚡ Fun fact: My work focuses not only on functional applications; I'm also adept in user experience.
-- ❤️‍🔥 Check out my portfolio: [valeriia-code.com(https://valeriia-code.com/)]
+- ❤️‍🔥 Check out my portfolio: [[valeriia-code.com](https://valeriia-code.com/)]
 
 
 # Skills and Experience:
